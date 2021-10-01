@@ -17,11 +17,10 @@ Just an example of some ELAN codings
 This will contain your clipped videos
 
 #SCRIPT
-This contains a jupyter notebook script
-You can also just execture the script by clicking on the .bat file
+This contains a jupyter notebook script.
 
 #VIDEOS
-Here are your videos
+Here are your videos (now an example video)
 
 ###################################Installation
 install anaconda
