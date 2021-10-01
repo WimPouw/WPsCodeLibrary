@@ -1,9 +1,9 @@
 #questions: wimpouw@gmail.com
 
 #What does this do?
-You have video that you want to clip into subpieces based on annoations in ELAN. This way
+You have a video that you want to clip into subpieces based on annotations in ELAN. This way
 you can make smaller clips with relevant behavior. This script loops over the annotation files, links it up
-with the relevant videos, and then for each annotation clips the video accordingly and saves it into your clipped folder.
+with the relevant video, and then for each annotation, clips the video accordingly and saves it into your clipped folder.
 
 ###################################FOLDERING
 ANNOTATIONS
